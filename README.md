@@ -2,7 +2,6 @@
 
 This project is a Paint application developed using Python's `tkinter` GUI library. \
 It was created as part of an academic exercise and showcases drawing capabilities in a graphical interface. \
-The project received a final grade of **88**.
 
 ---
 
@@ -43,16 +42,16 @@ Launch a pixel art mode designed for creating detailed, grid-based pixel art.
 
 # 🚀 Additional Features
 
-✏️ Undo / Redo Drawing: Step backward or forward through recent actions.
-📤 Multi-Format Exporting: Save your work as .JPEG, .SVG, .PDF, or .EPS.
-🎹 Custom Keybinds: All tools are accessible via keyboard (e.g., keys, Ctrl+Key, mouse wheel).
-🧭 Dynamic Tooltips: Hovering over each tool displays its description and shortcut.
-🖱️ Context Menus: Right-click on shapes (or text) to reveal contextual options.
-🎯 Cursor Variants: Cursor changes based on the selected tool for better UX.
-🔊 Sound Effects: Fun audio feedback while drawing, with support for toggling sound on/off.
-🌒 Dark Mode Background: Easier on the eyes and stylish.
-🔐 Smart UI: Irrelevant buttons are disabled automatically depending on the selected mode.
-📖 More Options via CLI: Run with --help for all command-line options.
+- ✏️ Undo / Redo Drawing: Step backward or forward through recent actions.
+- 📤 Multi-Format Exporting: Save your work as .JPEG, .SVG, .PDF, or .EPS.
+- 🎹 Custom Keybinds: All tools are accessible via keyboard (e.g., keys, Ctrl+Key, mouse wheel).
+- 🧭 Dynamic Tooltips: Hovering over each tool displays its description and shortcut.
+- 🖱️ Context Menus: Right-click on shapes (or text) to reveal contextual options.
+- 🎯 Cursor Variants: Cursor changes based on the selected tool for better UX.
+- 🔊 Sound Effects: Fun audio feedback while drawing, with support for toggling sound on/off.
+- 🌒 Dark Mode Background: Easier on the eyes and stylish.
+- 🔐 Smart UI: Irrelevant buttons are disabled automatically depending on the selected mode.
+- 📖 More Options via CLI: Run with --help for all command-line options.
 
 ---
 
