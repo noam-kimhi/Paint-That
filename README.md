@@ -40,7 +40,7 @@ Launch a pixel art mode designed for creating detailed, grid-based pixel art.
 
 ---
 
-# 🚀 Additional Features
+# 🖼 Additional Features
 
 - ✏️ Undo / Redo Drawing: Step backward or forward through recent actions.
 - 📤 Multi-Format Exporting: Save your work as .JPEG, .SVG, .PDF, or .EPS.
