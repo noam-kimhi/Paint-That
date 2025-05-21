@@ -64,5 +64,4 @@ Launch a pixel art mode designed for creating detailed, grid-based pixel art.
 
 ---
 # 📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
