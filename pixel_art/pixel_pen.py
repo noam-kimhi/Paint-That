@@ -1,6 +1,6 @@
 #################################################################
 # FILE : pixel_pen.py
-# WRITER : Noam Kimhi, noam.kimhi, ID: 322678947
+# WRITER : Noam Kimhi, noam.kimhi
 # EXERCISE : intro2cs Final Project
 # DESCRIPTION: Paint Program - PixelPen Class
 #################################################################
