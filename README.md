@@ -1,9 +1,8 @@
 # 🎨 Python Paint Application
 
 This project is a Paint application developed using Python's `tkinter` GUI library. \
-It was created as part of an academic exercise and showcases drawing capabilities in a graphical interface. \
+It was created as part of an academic exercise and showcases drawing capabilities in a graphical interface. 
 
----
 
 ## 🧩 Core Features
 
@@ -23,7 +22,7 @@ The application provides an intuitive drawing interface with the following basic
 
 All tools are accessible via a graphical toolbar and have **keyboard shortcuts** and **tooltips** for quick access.
 
----
+
 
 # 🌟 Key Expansion: *Paint That Pixel*
 
@@ -38,7 +37,7 @@ Launch a pixel art mode designed for creating detailed, grid-based pixel art.
     - Open saved files
     - Tooltips with keyboard shortcuts
 
----
+
 
 # 🖼 Additional Features
 
@@ -53,7 +52,7 @@ Launch a pixel art mode designed for creating detailed, grid-based pixel art.
 - 🔐 Smart UI: Irrelevant buttons are disabled automatically depending on the selected mode.
 - 📖 More Options via CLI: Run with --help for all command-line options.
 
----
+
 
 # 🚀 Getting Started
 
@@ -62,6 +61,6 @@ Launch a pixel art mode designed for creating detailed, grid-based pixel art.
 - Python 3.9+
 - Additional packages (see `requirements.txt`)
 
----
+
 # 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
